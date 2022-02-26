@@ -1,5 +1,3 @@
-package com.okpets;
-
 public class Dog {
 
     // class fields
